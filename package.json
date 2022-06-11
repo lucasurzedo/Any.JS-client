@@ -1,0 +1,16 @@
+{
+    "name": "anyjs-client",
+    "version": "1.0.0",
+    "description": "",
+    "main": "",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+      "bson": "^4.6.4",
+      "node-fetch": "^1.7.3"
+    }
+  }
+  
